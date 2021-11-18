@@ -17,4 +17,4 @@ jobRoleDropdown.addEventListener("change", (e) => {
     } else if (e.target.value != 'other') {
         jobRoleInput.style.display = 'none';
     }
-})
+});
